@@ -20,6 +20,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aravindzzz&icon=5&color=0)](https://visitcount.itsvg.in)
-![Leetcode Stats](/https://leetcode.com/210701032/)
+![](https://leetcard.
+Aravind/?cache=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
