@@ -20,7 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aravindzzz&icon=5&color=0)](https://visitcount.itsvg.in)
-![](https://leetcard.
-Aravind/?cache=0)
+![](https://leetcard.jacoblin.cool/Aravind?ext=heatmap)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
