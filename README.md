@@ -22,6 +22,6 @@
 [![](https://visitcount.itsvg.in/api?id=Aravindzzz&icon=5&color=0)](https://visitcount.itsvg.in)
 ![](https://leetcard.jacoblin.cool/Aravind32?ext=heatmap)
 
-[![user_u8mxizex1eu](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<YOUR_USERNAME>)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
